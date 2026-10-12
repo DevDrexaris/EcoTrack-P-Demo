@@ -1,0 +1,15 @@
+# Local credentials and environment configuration
+.env
+.env.*
+
+# Dependencies, generated output, and local tooling
+node_modules/
+dist/
+coverage/
+.vscode/
+.idea/
+
+# Build/debug artifacts
+*.map
+*.tsbuildinfo
+*.log
